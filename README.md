@@ -72,7 +72,7 @@ My passion lies in bridging the gap between **Data Science** and **Financial Ana
 
 ### 📈 Global Equities Investment Analysis
 *(Feb 2025 – Jun 2025)*
-**[📄 Download Investment Report](https://github.com/Eason-NotFound/Resources/blob/main/Investment_Report.pdf)**
+**[📄 Download Investment Report](docs/Investment_Report.pdf)**
 
 * **Goal:** Conduct fundamental and technical analysis on US and Asian equities.
 * **Output:** Generated comprehensive investment reports with risk-return assessments.
