@@ -1,6 +1,6 @@
 # Hi there, I'm Eason Qu (Yichen) 👋
 
-> **Business Computing & Data Analytics Student @ HKBU** | **Data Science & AI in Business Enthusiast**
+> Business Computing & Data Analytics Student @ HKBU | Data Science & AI in Business Enthusiast
 
 📍 Hong Kong
 📧 [Email](mailto:23260068@life.hkbu.edu.hk) | 🔗 [LinkedIn](https://www.linkedin.com/in/yichen-qu-5790282aa/) | 💻 [GitHub](https://github.com/Eason-NotFound?tab=repositories)
