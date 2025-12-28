@@ -68,7 +68,7 @@ My passion lies in bridging the gap between **Data Science** and **Financial Ana
 
 * **Goal:** Build robust credit risk models to predict loan defaults.
 * **Details:** Implemented **XGBoost and Random Forest** algorithms with extensive feature engineering.
-* **Tech Stack:** Python, Scikit-learn, XGBoost.
+* **Tech Stack:** Python, Scikit-learn, XGBoost
 
 ### 📈 Global Equities Investment Analysis
 *(Feb 2025 – Jun 2025)*
@@ -76,7 +76,7 @@ My passion lies in bridging the gap between **Data Science** and **Financial Ana
 
 * **Goal:** Conduct fundamental and technical analysis on US and Asian equities.
 * **Output:** Generated comprehensive investment reports with risk-return assessments.
-* **Tools:** Bloomberg Terminal, Excel.
+* **Tools:** Bloomberg Terminal, Excel
 
 ---
 
@@ -106,7 +106,7 @@ My passion lies in bridging the gap between **Data Science** and **Financial Ana
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Bloomberg](https://img.shields.io/badge/Bloomberg-29339B?style=flat&logo=bloomberg&logoColor=white)
 
-* **Languages:** Python, Java, SQL, R
+* **Languages:** Python, Java, SQL, R, Power BI
 * **AI/ML:** Machine Learning, XGBoost, LLM Fine-Tuning
 * **Tools:** Bloomberg Terminal, Git, Excel
 * **Languages:** English (IELTS 7.0), Chinese
