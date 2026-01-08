@@ -1,1 +1,5 @@
-
+title: Yichen (Eason) Qu
+description: Business Computing & Data Analytics Student @ HKBU
+theme: jekyll-theme-minimal # 我们会覆盖这个默认主题，但保留这行以防报错
+google_analytics: 
+show_downloads: false
