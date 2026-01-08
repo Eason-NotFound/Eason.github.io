@@ -92,7 +92,7 @@ Built credit risk models using Logistic Regression, Random Forest, and XGBoost; 
 <br>
 Built predictive models (RF, XGBoost, ANN) to forecast influenza trends and supported product strategy via data visualization .
 <br>
-<a href="#" class="btn-link">[Details]</a>
+<a href="https://github.com/Eason-NotFound/Flu-Prediction-Model" class="btn-link">[Details]</a>
 
 **Global Equities Investment Analysis** 
 <br>
