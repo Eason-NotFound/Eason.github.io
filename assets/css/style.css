@@ -1,135 +1,106 @@
-/* 全局设置 */
+/* 1. 全局设置：米色背景，统一字体 */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    /* 1. 更明显的米色背景 */
-    background-color: #F9F8F1; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #F9F8F1; /* 暖米色背景 */
     color: #333;
     line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 
-/* 链接默认颜色（去除丑陋的蓝色） */
-a {
-    color: #0066cc;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
+/* 2. 页面容器：强制居中，左右留白，像A4纸一样 */
+.container {
+    max-width: 900px; /* 限制最大宽度 */
+    margin: 0 auto;   /* 上下0，左右自动（实现居中） */
+    padding: 0 40px;  /* 内容内部左右留白 */
+    background-color: #F9F8F1; /* 确保容器也是米色 */
 }
 
-/* 2. 导航栏美化 */
+/* 3. 导航栏美化：去掉蓝色，靠右对齐 */
 .navbar {
-    background-color: #F9F8F1; /* 与背景同色 */
-    padding: 20px 0;
+    background-color: #F9F8F1;
+    padding: 30px 0;
     margin-bottom: 40px;
-    border-bottom: 1px solid #e0dfd5; /* 淡淡的分隔线 */
+    border-bottom: 1px solid #e0dfd5; /* 淡淡的底部分割线 */
 }
 
 .nav-links {
-    max-width: 900px; /* 与正文对齐 */
+    max-width: 900px;
     margin: 0 auto;
-    text-align: right; /* 靠右对齐 */
-    padding: 0 20px;
+    text-align: right; /* 链接靠右 */
+    padding: 0 40px;
 }
 
 .nav-links a {
-    color: #555; /* 深灰色，不是蓝色 */
-    margin-left: 30px; /* 链接之间的间距 */
-    font-size: 16px;
+    color: #555; /* 深灰色文字 */
+    margin-left: 25px;
+    font-size: 15px;
     font-weight: 600;
-    text-transform: uppercase; /* 大写字母，看起来更像菜单 */
-    letter-spacing: 0.5px;
     text-decoration: none; /* 去掉下划线 */
+    text-transform: uppercase; /* 大写字母 */
+    letter-spacing: 0.5px;
 }
 
 .nav-links a:hover {
-    color: #000; /* 悬停变黑 */
-    text-decoration: none;
+    color: #000; /* 鼠标悬停变黑 */
 }
 
-/* 3. 居中排版控制 */
-.container {
-    max-width: 900px; /* 限制内容宽度 */
-    margin: 0 auto;   /* 上下0，左右自动（实现居中） */
-    padding: 0 20px;  /* 手机端左右留白 */
-    background-color: #F9F8F1;
-}
-
-/* 标题样式 */
-h1 { font-size: 2.2em; font-weight: 700; color: #111; margin-bottom: 5px; }
-h2 { 
-    font-size: 1.5em; 
-    border-bottom: 2px solid #e0dfd5; /* 标题下划线颜色变浅 */
-    padding-bottom: 10px; 
-    margin-top: 50px;
-    color: #222;
-}
-
-/* 4. 个人信息头部布局 */
+/* 4. 个人信息头部：左右布局 */
 .profile-header {
     display: flex;
-    justify-content: space-between; /* 左右分开 */
+    justify-content: space-between;
     align-items: flex-start;
-    gap: 40px;
-    margin-bottom: 50px;
+    gap: 50px;
+    margin-bottom: 60px;
     margin-top: 40px;
 }
 
 .profile-text { flex: 1; }
 
-/* 照片控制 */
+/* 5. 照片控制：缩小尺寸 */
 .profile-img { 
     flex-shrink: 0; 
-    text-align: right;
 }
 
 .profile-img img { 
-    /* 缩小照片尺寸 */
-    width: 180px; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 轻微阴影 */
+    width: 180px; /* 强制宽度，改这里调整大小 */
+    border-radius: 8px; /* 圆角 */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* 轻微阴影 */
 }
 
-/* News 列表美化 */
+/* 标题样式 */
+h1 { font-size: 2.2em; color: #111; margin-bottom: 10px; }
+h2 { 
+    font-size: 1.4em; 
+    border-bottom: 1px solid #dcdbd1; /* 标题下划线 */
+    padding-bottom: 8px; 
+    margin-top: 50px;
+    color: #222;
+}
+
+/* 链接样式 */
+a { color: #0066cc; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* News 列表优化 */
 ul.news-list { list-style: none; padding: 0; }
 ul.news-list li { margin-bottom: 12px; display: flex; font-size: 0.95em; }
-.news-date { 
-    font-weight: bold; 
-    min-width: 110px; 
-    color: #444; 
-    font-family: monospace; /* 日期用等宽字体，更整齐 */
-}
+.news-date { font-weight: bold; min-width: 110px; color: #444; font-family: monospace; }
 
-/* 按钮样式 [Code] [PDF] */
+/* 按钮样式 */
 .btn-link {
     display: inline-block;
-    padding: 1px 6px;
+    padding: 2px 8px;
     border: 1px solid #0066cc;
-    border-radius: 3px;
+    border-radius: 4px;
     font-size: 0.8em;
-    font-weight: 600;
     color: #0066cc;
-    margin-right: 5px;
-    background-color: transparent;
 }
 .btn-link:hover { background-color: #0066cc; color: #fff; text-decoration: none; }
 
-/* 页脚 */
-.site-footer {
-    text-align: center; 
-    color: #999; 
-    font-size: 0.85em; 
-    margin-top: 80px;
-    margin-bottom: 40px;
-    border-top: 1px solid #e0dfd5;
-    padding-top: 20px;
-}
-
-/* 手机端适配 */
+/* 手机适配 */
 @media (max-width: 768px) {
     .profile-header { flex-direction: column-reverse; }
-    .profile-img { width: 100%; text-align: left; margin-bottom: 20px; }
+    .profile-img { width: 100%; margin-bottom: 20px; }
     .nav-links { text-align: center; }
-    .nav-links a { margin: 0 10px; font-size: 14px; }
 }
