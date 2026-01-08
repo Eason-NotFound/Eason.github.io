@@ -35,7 +35,7 @@ title: Yichen (Eason) Qu
     <li><span class="news-date">[2024-2025]</span> <span>Received the <b>HKSAR Government Scholarship</b>.</span></li>
     <li><span class="news-date">[Dec 2025]</span> <span>Completed exchange studies at <b>Nanyang Technological University (NTU)</b>.</span></li>
     <li><span class="news-date">[Jun 2025]</span> <span>Released the project <b>NanoGPT-Math</b>, focusing on DPO Fine-Tuning.</span></li>
-    <li><span class="news-date">[Apr 2025]</span> <span>Appointed as the <b>25th President</b> of HKBU CSSA.</span></li>
+    <li><span class="news-date">[Apr 2024]</span> <span>Appointed as the <b>25th President</b> of HKBU CSSA.</span></li>
 </ul>
 
 <h2 id="education">🎓 Education</h2>
