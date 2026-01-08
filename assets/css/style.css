@@ -1,0 +1,93 @@
+/* Set background */
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #fcfcf8; 
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Nevigate */
+.navbar {
+    background-color: #fcfcf8;
+    padding: 20px 40px;
+    border-bottom: 1px solid #eaeaea;
+    display: flex;
+    justify-content: flex-end; 
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #555;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+/* Width */
+.container {
+    max-width: 900px; 
+    margin: 0 auto;
+    padding: 40px 20px;
+    background-color: #fcfcf8;
+}
+
+/* Titles */
+h1, h2, h3 {
+    color: #111;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.2em; border-bottom: none; }
+h2 { font-size: 1.5em; border-bottom: 2px solid #eaeaea; padding-bottom: 10px; }
+
+
+a { color: #0066cc; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header */
+.profile-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+.profile-text { flex: 1; }
+.profile-img { width: 250px; flex-shrink: 0; }
+.profile-img img { width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+
+/* News style */
+ul.news-list { list-style: none; padding: 0; }
+ul.news-list li { margin-bottom: 10px; display: flex; }
+.news-date { font-weight: bold; min-width: 100px; color: #444; }
+
+/* button [Code] [PDF] */
+.btn-link {
+    display: inline-block;
+    padding: 2px 8px;
+    border: 1px solid #0066cc;
+    border-radius: 4px;
+    font-size: 0.85em;
+    color: #0066cc;
+    margin-right: 5px;
+}
+.btn-link:hover { background-color: #0066cc; color: white; text-decoration: none; }
+
+/* adjust for phone */
+@media (max-width: 768px) {
+    .profile-header { flex-direction: column-reverse; }
+    .profile-img { width: 100%; max-width: 300px; margin-bottom: 20px; }
+    .navbar { justify-content: center; }
+}
