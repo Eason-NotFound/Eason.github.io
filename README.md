@@ -1,115 +1,94 @@
-# Hi there, I'm Eason Qu (Yichen) 👋
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>Yichen (Eason) Qu</h1>
+      <p>
+        <b>Undergraduate Student</b><br>
+        Department of Computer Science / School of Business<br>
+        Hong Kong Baptist University (HKBU)
+      </p>
+      <p>
+        I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at HKBU with a CGPA of <b>3.87/4.0</b>. I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, focusing on Mathematics and Computer Science.
+      </p>
+      <p>
+        My research interests lie in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Financial Analysis</b>. I am particularly interested in applying Large Language Models (LLMs) to mathematical reasoning and financial forecasting.
+      </p>
+      <p>
+        📍 Hong Kong &nbsp;|&nbsp; 📧 <a href="mailto:23260068@life.hkbu.edu.hk">Email</a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Eason-NotFound?tab=repositories">GitHub</a>
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <img src="images/profile_photo.jpg" alt="Eason Qu" style="width:100%; border-radius: 5px;">
+    </td>
+  </tr>
+</table>
 
-> Business Computing & Data Analytics Student @ HKBU | Data Science & AI in Business Enthusiast
-
-📍 Hong Kong
-📧 [Email](mailto:23260068@life.hkbu.edu.hk) | 🔗 [LinkedIn](https://www.linkedin.com/in/yichen-qu-5790282aa/) | 💻 [GitHub](https://github.com/Eason-NotFound?tab=repositories)
-
----
-
-## 👨‍💻 About Me
-
-I am an undergraduate student at **Hong Kong Baptist University (HKBU)**, majoring in **Business Computing and Data Analytics** with a CGPA of **3.87/4.0**. I have also studied Computer Science as an exchange student at **Nanyang Technological University (NTU)**.
-
-My passion lies in bridging the gap between **Data Science** and **Financial Analysis**. I specialize in applying machine learning to solve real-world business problems.
-
----
+## 🔥 News
+- **[2024-2025]** Awarded the **Asia-Pacific Economic Cooperation (APEC) Scholarship**.
+- **[2024-2025]** Received the **HKSAR Government Scholarship**.
+- **[Dec 2025]** Completed exchange studies at **Nanyang Technological University (NTU)**.
+- **[Jun 2025]** Released the project **NanoGPT-Math**, focusing on DPO Fine-Tuning.
+- **[Apr 2025]** Appointed as the **25th President** of HKBU CSSA (Undergraduate Department).
+- **[2025]** Received the **Outstanding Student Performance Award**.
 
 ## 🎓 Education
 
-### 🏛️ Hong Kong Baptist University (HKBU)
-**B.Sc. in Business Computing and Data Analytics** | *2023 - Present*
+* **Hong Kong Baptist University (HKBU)** | *2023 - Present*
+    * B.Sc. in Business Computing and Data Analytics
+    * **CGPA:** 3.87 / 4.0
+    * *Awards:* * Asia-Pacific Economic Cooperation Scholarship (2024-2025)
+        * HKSAR Government Scholarship (2024-2025)
+        * President's Honour Roll
 
-![HKBU Campus](images/hkbu_campus.jpg)
+* **Nanyang Technological University (NTU)** | *Aug 2025 - Dec 2025*
+    * Exchange Student, School of Physical and Mathematical Sciences.
+    * Focus: AI, Computer Vision, Machine Learning.
 
-* **CGPA:** 3.87 / 4.0
-* **Awards:**
-    * Outstanding Student Performance Award (2025)
-    * HKSAR Government Scholarship (2024-2027)
-    * President's Honour Roll (2023-2025)
+## 📝 Selected Projects
 
-### 🦁 Nanyang Technological University (NTU)
-**Exchange Student, Mathematics and Computer Science** | *Aug 2025 - Dec 2025*
+**NanoGPT-Math: DPO Fine-Tuning**
+<br>
+*Goal: Enhance the mathematical reasoning capabilities of large language models.*
+<br>
+Using Direct Preference Optimization (DPO) to fine-tune NanoGPT models, significantly improving multi-step problem-solving accuracy.
+<br>
+[[Code]](https://github.com/Eason-NotFound/Teaching-NanoGPT-to-Do-Math)
 
-![NTU Campus](images/ntu_campus.jpg)
+**Credit Default Prediction System**
+<br>
+*Goal: Build robust credit risk models to predict loan defaults.*
+<br>
+Implemented XGBoost and Random Forest algorithms with extensive feature engineering to predict credit card defaults based on client data.
+<br>
+[[Code]](https://github.com/Eason-NotFound/Credit-Card-Default-Prediction)
 
-* **Focus:** AI; Data Anlytics; Computer Vision; Machine Learning
+**Global Equities Investment Analysis**
+<br>
+*Goal: Conduct fundamental and technical analysis on US and Asian equities.*
+<br>
+Generated comprehensive investment reports with risk-return assessments using Bloomberg Terminal data.
+<br>
+[[Report]](docs/Investment_Report.pdf)
 
----
+## 💼 Experience & Service
 
-## 🌟 Leadership & Extracurriculars
+* **The 25th President**, HKBU CSSA (Undergraduate Department) | *Apr 2024 – Apr 2025*
+    * Led a team of 16 to organize cultural/academic events for nearly 1,000 members.
+    * Collaborated with student organizations across 8 universities in Hong Kong.
 
-> "Leadership is not about a title or a designation. It's about impact, influence, and inspiration."
+* **Project Assistant**, Hong Kong Baptist University | *Jun 2025 – Aug 2025*
+    * Developed educational materials for ML workshops and delivered public lectures on AI applications.
 
-![HKBU CSSA Leadership](images/leadership_photo.jpg)
-*(Caption: Serving as the 25th President of HKBU CSSA)*
+* **International Project Operator**, Beijing Web3Hub | *Jul 2024 – Aug 2024*
+    * Coordinated cross-border project proposals and managed international communication.
 
-### 📢 The 25th President @ HKBU CSSA (Undergraduate Department)
-*Apr 2024 – Apr 2025*
+## 🛠 Skills
 
-* **Team Leadership:** Led a core team of **16 members** to organize dozens of cultural and academic events throughout the year, fostering a supportive community for students.
-* **Strategic Collaboration:** Collaborated with the university administration and student organizations across **eight other universities** in Hong Kong to maximize student welfare and resource sharing.
-* **Community Impact:** Served a community of **nearly 1,000 members**, acting as a vital bridge to assist members in liaising with the school and resolving academic or daily life issues.
----
+* **Languages:** Python, Java, SQL, R
+* **Libraries & Tools:** PyTorch, Scikit-learn, XGBoost, Bloomberg Terminal, Power BI, Git
+* **Languages:** English (IELTS 7.0), Chinese (Native)
 
-## 🚀 Featured Projects
-
-### 🤖 NanoGPT-Math: DPO Fine-Tuning
-*(Apr 2025 – Jun 2025)*
-**[🔗 View Code on GitHub](https://github.com/Eason-NotFound/Teaching-NanoGPT-to-Do-Math)**
-
-* **Goal:** Enhance the mathematical reasoning capabilities of large language models.
-* **Details:** Fine-tuned NanoGPT using **Direct Preference Optimization (DPO)**. Improved multi-step problem solving accuracy.
-* **Tech Stack:** Python, PyTorch, LLM Fine-tuning.
-
-### 💳 Credit Default Prediction System
-*(Mar 2025 – May 2025)*
-**[🔗 View Code on GitHub](https://github.com/Eason-NotFound/Credit-Card-Default-Prediction)**
-
-* **Goal:** Build robust credit risk models to predict loan defaults.
-* **Details:** Implemented **XGBoost and Random Forest** algorithms with extensive feature engineering.
-* **Tech Stack:** Python, Scikit-learn, XGBoost
-
-### 📈 Global Equities Investment Analysis
-*(Feb 2025 – Jun 2025)*
-**[📄 Download Investment Report](docs/Investment_Report.pdf)**
-
-* **Goal:** Conduct fundamental and technical analysis on US and Asian equities.
-* **Output:** Generated comprehensive investment reports with risk-return assessments.
-* **Tools:** Bloomberg Terminal, Excel
-
----
-
-## 💼 Professional Experience
-
-### 🏛️ Project Assistant @ Hong Kong Baptist University
-*Jun 2025 – Aug 2025*
-
-![Workshop Delivery](images/workshop_photo.jpg)
-
-* **Role:** Developed educational materials for machine learning and delivered hands-on workshops.
-* **Impact:** Conducted public lectures on AI applications for non-technical audiences.
-
-### 🌐 International Project Operator @ Beijing Web3Hub
-*Jul 2024 – Aug 2024*
-
-![Project Management](images/project_photo.jpg)
-
-* **Role:** Coordinated cross-border project proposals.
-* **Impact:** Supported teams in refining project deliverables and managed international communication.
-
----
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Bloomberg](https://img.shields.io/badge/Bloomberg-29339B?style=flat&logo=bloomberg&logoColor=white)
-
-* **Languages:** Python, Java, SQL, R, Power BI
-* **AI/ML:** Machine Learning, XGBoost, LLM Fine-Tuning
-* **Tools:** Bloomberg Terminal, Git, Excel
-* **Languages:** English (IELTS 7.0), Chinese
-
----
-*Last updated: December 2025*
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Update-December%202025-lightgrey">
+</p>
