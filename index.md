@@ -12,10 +12,10 @@ title: Yichen (Eason) Qu
             Hong Kong Baptist University (HKBU)
         </p>
         <p>
-            I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at HKBU with a CGPA of <b>3.87/4.0</b>. I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, focusing on Mathematics and Computer Science.
+            I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at HKBU with a CGPA of <b>3.87/4.0</b> . I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, focusing on Mathematics and Computer Science .
         </p>
         <p>
-            My research interests lie in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Financial Analysis</b>. I am particularly interested in applying Large Language Models (LLMs) to mathematical reasoning and financial forecasting.
+            My research interests lie in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Financial Analysis</b> . I am particularly interested in applying Large Language Models (LLMs) to mathematical reasoning and financial forecasting .
         </p>
         <p>
             <i class="fas fa-map-marker-alt"></i> Hong Kong &nbsp;|&nbsp; 
@@ -40,61 +40,74 @@ title: Yichen (Eason) Qu
 
 <h2 id="education">🎓 Education</h2>
 
-* **Hong Kong Baptist University (HKBU)** | *2023 - Present*
-  * B.Sc. in Business Computing and Data Analytics
-  * **CGPA:** 3.87 / 4.0
+* **Hong Kong Baptist University (HKBU)** | *2023 - Present* 
+  * B.Sc. in Business Computing and Data Analytics 
+  * **CGPA:** 3.87 / 4.0 
   * *Awards:*
     * Asia-Pacific Economic Cooperation Scholarship (2024-2025)
-    * HKSAR Government Scholarship (2024-2025)
-    * President's Honour Roll
+    * HKSAR Government Scholarship (2024-2027) 
+    * Outstanding Student Performance Award (2025) 
+    * President's Honour Roll (2023-2025) 
 
-* **Nanyang Technological University (NTU)** | *Aug 2025 - Dec 2025*
+* **Nanyang Technological University (NTU)** | *Aug 2025 - Dec 2025* 
   * Exchange Student, School of Physical and Mathematical Sciences.
-  * Focus: AI, Computer Vision, Machine Learning.
+  * Focus: Computer Communication & Distributed Systems, AI .
+
+<h2 id="work-experience">💼 Work Experience</h2>
+
+* **Project Assistant**, Hong Kong Baptist University | *Jun 2025 – Aug 2025* 
+  * **Educational Content Development:** Developed machine learning educational materials and delivered hands-on workshops .
+  * **Workshop Facilitation:** Conducted public lectures on AI applications for non-technical audiences .
+
+* **International Project Operator**, Beijing Web3Hub | *Jul 2024 – Aug 2024* 
+  * **Cross-Border Coordination:** Coordinated cross-border project proposals and supported teams in refining deliverables .
+  * **Project Optimization:** Acting as a liaison between international teams to ensure seamless communication and project alignment .
+
+<h2 id="leadership">🏆 Leadership Experience</h2>
+
+* **The 25th President**, HKBU Chinese Students and Scholars Association (CSSA) | *Apr 2024 – Apr 2025*
+  * **Strategic Leadership:** Led the 25th Undergraduate Department, overseeing strategic direction and daily operations to serve the student community.
+  * **Community Management:** Orchestrated large-scale cultural and academic events, fostering a supportive environment for Chinese students and scholars at HKBU.
 
 <h2 id="projects">📝 Selected Projects</h2>
 
-**NanoGPT-Math: DPO Fine-Tuning**
+**NanoGPT-Math: DPO Fine-Tuning** 
 <br>
 *Goal: Enhance the mathematical reasoning capabilities of large language models.*
 <br>
-Using Direct Preference Optimization (DPO) to fine-tune NanoGPT models, significantly improving multi-step problem-solving accuracy.
+Fine-tuned NanoGPT using Direct Preference Optimization (DPO) for math reasoning; improved multi-step problem accuracy through preference-based alignment .
 <br>
 <a href="https://github.com/Eason-NotFound/Teaching-NanoGPT-to-Do-Math" class="btn-link">[Code]</a>
 
-**Credit Default Prediction System**
+**Credit Default Prediction System** 
 <br>
 *Goal: Build robust credit risk models to predict loan defaults.*
 <br>
-Implemented XGBoost and Random Forest algorithms with extensive feature engineering to predict credit card defaults based on client data.
+Built credit risk models using Logistic Regression, Random Forest, and XGBoost; performed feature engineering, imbalance handling, and AUC-based evaluation .
 <br>
 <a href="https://github.com/Eason-NotFound/Credit-Card-Default-Prediction" class="btn-link">[Code]</a>
 
-**Global Equities Investment Analysis**
+**Health Pause App Data Analysis** 
+<br>
+*Goal: Forecast influenza trends and support product strategy.*
+<br>
+Built predictive models (RF, XGBoost, ANN) to forecast influenza trends and supported product strategy via data visualization .
+<br>
+<a href="#" class="btn-link">[Details]</a>
+
+**Global Equities Investment Analysis** 
 <br>
 *Goal: Conduct fundamental and technical analysis on US and Asian equities.*
 <br>
-Generated comprehensive investment reports with risk-return assessments using Bloomberg Terminal data.
+Conducted fundamental and technical analysis on US and Asian equities; generated investment reports with risk-return assessment .
 <br>
 <a href="docs/Investment_Report.pdf" class="btn-link">[Report PDF]</a>
 
-<h2 id="experience">💼 Experience & Service</h2>
-
-* **The 25th President**, HKBU CSSA (Undergraduate Department) | *Apr 2024 – Apr 2025*
-  * Led a team of 16 to organize cultural/academic events for nearly 1,000 members.
-  * Collaborated with student organizations across 8 universities in Hong Kong.
-
-* **Project Assistant**, Hong Kong Baptist University | *Jun 2025 – Aug 2025*
-  * Developed educational materials for ML workshops and delivered public lectures on AI applications.
-
-* **International Project Operator**, Beijing Web3Hub | *Jul 2024 – Aug 2024*
-  * Coordinated cross-border project proposals and managed international communication.
-
 <h2 id="skills">🛠 Skills</h2>
 
-* **Languages:** Python, Java, SQL, R
-* **Libraries & Tools:** PyTorch, Scikit-learn, XGBoost, Bloomberg Terminal, Power BI, Git
-* **Languages:** English (IELTS 7.0), Chinese (Native)
+* **Languages:** Python, Java, SQL, R 
+* **Libraries & Tools:** PyTorch, Scikit-learn, XGBoost, Bloomberg Terminal, LLM Fine-Tuning 
+* **Languages:** English (IELTS 7.0), Chinese (Native) 
 
 <br>
 <p align="center" style="font-size: 0.8em; color: #999;">
