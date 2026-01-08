@@ -46,7 +46,6 @@ title: Yichen (Eason) Qu
   * *Awards:*
     * Asia-Pacific Economic Cooperation Scholarship (2024-2025)
     * HKSAR Government Scholarship (2024-2027) 
-    * Outstanding Student Performance Award (2025) 
     * President's Honour Roll (2023-2025) 
 
 * **Nanyang Technological University (NTU)** | *Aug 2025 - Dec 2025* 
