@@ -28,7 +28,7 @@
 - **[2024-2025]** Received the **HKSAR Government Scholarship**.
 - **[Dec 2025]** Completed exchange studies at **Nanyang Technological University (NTU)**.
 - **[Jun 2025]** Released the project **NanoGPT-Math**, focusing on DPO Fine-Tuning.
-- **[Apr 2025]** Appointed as the **25th President** of HKBU CSSA (Undergraduate Department).
+- **[Apr 2024]** Appointed as the **25th President** of HKBU CSSA (Undergraduate Department).
 - **[2025]** Received the **Outstanding Student Performance Award**.
 
 ## 🎓 Education
