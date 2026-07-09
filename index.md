@@ -10,7 +10,7 @@ title: Yichen (Eason) Qu
         <p style="font-size:1.1em;color:#555;">
             <b>Business Computing & Data Analytics Undergraduate</b><br>
             Hong Kong Baptist University (HKBU)<br>
-            Incoming AI / Data Science / Business Analytics Professional
+            Business Operations & Management Intern @ ByteDance
         </p>
 
         <p>
