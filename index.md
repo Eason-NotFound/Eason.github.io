@@ -4,13 +4,12 @@ title: Yichen (Eason) Qu
 ---
 <div class="profile-header">
     <div class="profile-text">
-
         <h1>Yichen (Eason) Qu</h1>
 
-        <p style="font-size:1.1em; color:#555;">
-            <b>B.Sc. Business Computing and Data Analytics</b><br>
+        <p style="font-size: 1.1em; color: #555;">
+            <b>Business Computing and Data Analytics Undergraduate</b><br>
             Hong Kong Baptist University (HKBU)<br>
-            Business Operations & Management Intern @ ByteDance
+            Business Operations & Management Intern, ByteDance
         </p>
 
         <p>
@@ -18,7 +17,11 @@ title: Yichen (Eason) Qu
         </p>
 
         <p>
-            My interests lie in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Science</b>, and <b>Business Analytics</b>. I am passionate about applying AI and data-driven methods to solve real-world business problems, with particular interests in <b>Large Language Models (LLMs)</b>, <b>AI Agents</b>, predictive modeling, and decision intelligence. Currently, I work as a <b>Business Operations & Management Intern</b> at <b>ByteDance</b>, where I develop enterprise analytics solutions, build LLM-powered AI workflows, and support global IT budgeting through SQL, Power BI, and forecasting models.
+            My interests lie in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Science</b>, and <b>Business Analytics</b>. I am particularly interested in developing intelligent systems that bridge AI research with real-world business applications, including Large Language Models (LLMs), AI Agents, predictive analytics, and data-driven decision making.
+        </p>
+
+        <p>
+            Currently, I am a <b>Business Operations & Management Intern</b> at <b>ByteDance</b>, where I develop enterprise SQL pipelines, automate Power BI dashboards, build LLM-powered AI Agents, and support financial forecasting and global IT budget planning.
         </p>
 
         <p>
@@ -28,16 +31,15 @@ title: Yichen (Eason) Qu
             <a href="mailto:easonqu0719@outlook.com">easonqu0719@outlook.com</a>
             &nbsp;|&nbsp;
             <i class="fab fa-linkedin"></i>
-            <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/" target="_blank">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/">LinkedIn</a>
             &nbsp;|&nbsp;
             <i class="fab fa-github"></i>
-            <a href="https://github.com/Eason-NotFound" target="_blank">GitHub</a>
+            <a href="https://github.com/Eason-NotFound">GitHub</a>
         </p>
-
     </div>
 
     <div class="profile-img">
-        <img src="images/profile_photo.jpg" alt="Yichen (Eason) Qu">
+        <img src="images/profile_photo.jpg" alt="Yichen Qu">
     </div>
 </div>
 
