@@ -2,7 +2,6 @@
 layout: default
 title: Yichen (Eason) Qu
 ---
-
 <div class="profile-header">
     <div class="profile-text">
 
