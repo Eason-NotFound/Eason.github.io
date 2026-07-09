@@ -5,44 +5,28 @@ title: Yichen (Eason) Qu
 <div class="profile-header">
     <div class="profile-text">
         <h1>Yichen (Eason) Qu</h1>
-
         <p style="font-size: 1.1em; color: #555;">
-            <b>Business Computing and Data Analytics Undergraduate</b><br>
-            Hong Kong Baptist University (HKBU)<br>
-            Business Operations & Management Intern, ByteDance
+            <b>Undergraduate Student</b><br>
+            Department of Computer Science / School of Business<br>
+            Hong Kong Baptist University (HKBU)
         </p>
-
         <p>
-            I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at <b>Hong Kong Baptist University (HKBU)</b>. I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, where I studied Artificial Intelligence, Machine Learning, and Visual & Predictive Analytics.
+            I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at HKBU with a CGPA of <b>3.87/4.0</b> . I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, focusing on Mathematics and Computer Science .
         </p>
-
         <p>
-            My interests lie in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Science</b>, and <b>Business Analytics</b>. I am particularly interested in developing intelligent systems that bridge AI research with real-world business applications, including Large Language Models (LLMs), AI Agents, predictive analytics, and data-driven decision making.
+            My research interests lie in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Financial Analysis</b> . I am particularly interested in applying Large Language Models (LLMs) to mathematical reasoning and financial forecasting .
         </p>
-
         <p>
-            Currently, I am a <b>Business Operations & Management Intern</b> at <b>ByteDance</b>, where I develop enterprise SQL pipelines, automate Power BI dashboards, build LLM-powered AI Agents, and support financial forecasting and global IT budget planning.
-        </p>
-
-        <p>
-            <i class="fas fa-map-marker-alt"></i> Hong Kong
-            &nbsp;|&nbsp;
-            <i class="fas fa-envelope"></i>
-            <a href="mailto:easonqu0719@outlook.com">easonqu0719@outlook.com</a>
-            &nbsp;|&nbsp;
-            <i class="fab fa-linkedin"></i>
-            <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/">LinkedIn</a>
-            &nbsp;|&nbsp;
-            <i class="fab fa-github"></i>
-            <a href="https://github.com/Eason-NotFound">GitHub</a>
+            <i class="fas fa-map-marker-alt"></i> Hong Kong &nbsp;|&nbsp; 
+            <i class="fas fa-envelope"></i> <a href="mailto:23260068@life.hkbu.edu.hk">Email</a> &nbsp;|&nbsp; 
+            <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/">LinkedIn</a> &nbsp;|&nbsp; 
+            <i class="fab fa-github"></i> <a href="https://github.com/Eason-NotFound">GitHub</a>
         </p>
     </div>
-
     <div class="profile-img">
-        <img src="images/profile_photo.jpg" alt="Yichen Qu" />
+        <img src="images/profile_photo.jpg" alt="Eason Qu">
     </div>
 </div>
-
 <h2 id="news">🔥 News</h2>
 
 <ul class="news-list">
