@@ -5,76 +5,40 @@ title: Yichen (Eason) Qu
 
 <div class="profile-header">
     <div class="profile-text">
+
         <h1>Yichen (Eason) Qu</h1>
 
-        <p style="font-size:1.1em;color:#555;">
-            <b>Business Computing & Data Analytics Undergraduate</b><br>
+        <p style="font-size:1.1em; color:#555;">
+            <b>B.Sc. Business Computing and Data Analytics</b><br>
             Hong Kong Baptist University (HKBU)<br>
             Business Operations & Management Intern @ ByteDance
         </p>
 
         <p>
-            I am a final-year undergraduate student majoring in
-            <b>Business Computing and Data Analytics</b> at
-            <b>Hong Kong Baptist University (HKBU)</b>.
-            I recently completed an exchange semester at
-            <b>Nanyang Technological University (NTU)</b>,
-            where I studied Artificial Intelligence, Machine Learning,
-            and Visual & Predictive Analytics.
+            I am a final-year undergraduate student majoring in <b>Business Computing and Data Analytics</b> at <b>Hong Kong Baptist University (HKBU)</b>. I recently completed an exchange semester at <b>Nanyang Technological University (NTU)</b>, where I studied Artificial Intelligence, Machine Learning, and Visual & Predictive Analytics.
         </p>
 
         <p>
-            My interests lie at the intersection of
-            <b>Artificial Intelligence</b>,
-            <b>Machine Learning</b>,
-            <b>Data Science</b>,
-            and
-            <b>Business Analytics</b>.
-            I enjoy developing intelligent systems that transform data into practical business solutions,
-            with particular interests in Large Language Models (LLMs),
-            AI Agents,
-            predictive modeling,
-            and data-driven decision making.
+            My interests lie in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Science</b>, and <b>Business Analytics</b>. I am passionate about applying AI and data-driven methods to solve real-world business problems, with particular interests in <b>Large Language Models (LLMs)</b>, <b>AI Agents</b>, predictive modeling, and decision intelligence. Currently, I work as a <b>Business Operations & Management Intern</b> at <b>ByteDance</b>, where I develop enterprise analytics solutions, build LLM-powered AI workflows, and support global IT budgeting through SQL, Power BI, and forecasting models.
         </p>
 
         <p>
-            Currently, I am working as a
-            <b>Business Operations & Management Intern</b>
-            at <b>ByteDance</b>,
-            where I develop enterprise analytics solutions,
-            build AI-powered automation workflows,
-            and support global IT budgeting through SQL, Power BI,
-            forecasting models, and LLM-based AI Agents.
-        </p>
-
-        <p>
-            <i class="fas fa-map-marker-alt"></i>
-            Hong Kong
+            <i class="fas fa-map-marker-alt"></i> Hong Kong
             &nbsp;|&nbsp;
-
             <i class="fas fa-envelope"></i>
-            <a href="mailto:easonqu0719@outlook.com">
-                easonqu0719@outlook.com
-            </a>
-
+            <a href="mailto:easonqu0719@outlook.com">easonqu0719@outlook.com</a>
             &nbsp;|&nbsp;
-
             <i class="fab fa-linkedin"></i>
-            <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/">
-                LinkedIn
-            </a>
-
+            <a href="https://www.linkedin.com/in/yichen-qu-5790282aa/" target="_blank">LinkedIn</a>
             &nbsp;|&nbsp;
-
             <i class="fab fa-github"></i>
-            <a href="https://github.com/Eason-NotFound">
-                GitHub
-            </a>
+            <a href="https://github.com/Eason-NotFound" target="_blank">GitHub</a>
         </p>
+
     </div>
 
     <div class="profile-img">
-        <img src="images/profile_photo.jpg" alt="Yichen Qu">
+        <img src="images/profile_photo.jpg" alt="Yichen (Eason) Qu">
     </div>
 </div>
 
