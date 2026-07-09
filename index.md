@@ -39,7 +39,7 @@ title: Yichen (Eason) Qu
     </div>
 
     <div class="profile-img">
-        <img src="images/profile_photo.jpg" alt="Yichen Qu">
+        <img src="images/profile_photo.jpg" alt="Yichen Qu" />
     </div>
 </div>
 
